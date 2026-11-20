@@ -5,53 +5,56 @@ data: 2026-11-20
 categoria: home-equity
 formato: artigo
 palavra_chave: trocar dívida cara por barata
-resumo: Juros de cartão e cheque especial são dos mais altos do mercado. Veja, com números, quando a garantia de imóvel reduz a parcela e quando a troca não resolve.
+resumo: Juros de cartão, cheque especial e empréstimo pessoal são dos mais altos do mercado. Veja, com números, quando a garantia de imóvel reduz a parcela e quando a troca não resolve.
 ---
-Se você está pagando o rotativo do cartão, o parcelamento da fatura ou o cheque especial e tem um imóvel quitado (ou quase), dá para **trocar essa dívida cara por uma barata** usando o imóvel como garantia. Em vez de juros de 7% a 15% ao mês, a dívida passa a custar algo perto de 1% a 2% ao mês, com prazo de anos. Mas a troca só resolve se o hábito que gerou a dívida mudar junto.
+Se você está pagando o rotativo do cartão, o parcelamento da fatura ou o cheque especial e tem um imóvel quitado (ou quase), dá para **trocar essa dívida cara por uma barata** usando o imóvel como garantia. Em vez de juros de 6% a 15% ao mês, a dívida passa a ter juros bem menores e prazo de anos. Mas a troca só resolve se o hábito que gerou a dívida mudar junto.
 
 Este guia mostra quanto cada dívida custa de verdade, como funciona a troca, um exemplo com números e os casos em que a gente recomenda **não** fazer.
 
 ## Quanto custa cada dívida hoje
 
-Os números abaixo são médias de mercado divulgadas pelo Banco Central nas [Estatísticas Monetárias e de Crédito](https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito) e pela [Abecip](https://www.abecip.org.br/). A taxa do seu caso pode ser maior ou menor.
+Os números abaixo são médias de mercado divulgadas pelo Banco Central nas [Estatísticas Monetárias e de Crédito](https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito), com dados de meados de 2026. A taxa do seu caso pode ser maior ou menor.
 
 | Dívida | Juros médios ao ano | Equivale a, por mês |
 |---|---|---|
-| Rotativo do cartão | cerca de 440% | cerca de 15% |
+| Rotativo do cartão | cerca de 450% | cerca de 15% |
 | Parcelamento da fatura | cerca de 190% | cerca de 9% |
 | Cheque especial | cerca de 140% | cerca de 7,5% |
-| Empréstimo pessoal sem garantia | — | cerca de 6,5% a 8% |
-| Empréstimo com garantia de imóvel | — | cerca de 1,1% a 1,8% (às vezes + IPCA) |
+| Empréstimo pessoal sem garantia | cerca de 110% a 130% | cerca de 6,5% a 7% |
 
-Repare na diferença: no rotativo, a dívida pode crescer mais de 15% em um único mês. No crédito com garantia de imóvel, o mesmo valor cresce cerca de 1,5%.
+Repare na diferença: no rotativo, a dívida pode crescer mais de 15% em um único mês. No crédito com garantia de imóvel, a taxa costuma ser uma fração disso, porque o risco da instituição é muito menor. A taxa e o CET do seu caso só saem na proposta de cada instituição.
 
-> Desde 2024, a lei limita os juros e encargos do rotativo e do parcelamento da fatura a 100% do valor original da dívida. Isso freia a bola de neve, mas não deixa a dívida barata: pagar o dobro do que você gastou continua sendo caro.
+> Desde 2024, a Lei 14.690/2023 limita os juros e encargos do rotativo e do parcelamento da fatura a 100% do valor original da dívida. Isso freia a bola de neve, mas não deixa a dívida barata: pagar o dobro do que você gastou continua sendo caro.
 
 ## Por que a garantia de imóvel deixa o juro tão menor
 
 O juro de qualquer empréstimo tem uma parte que é o risco de não receber. No cartão e no cheque especial, o banco não tem nada além da sua promessa, então cobra caro.
 
-No empréstimo com garantia de imóvel, o imóvel fica registrado como garantia na matrícula por **alienação fiduciária** ([Lei 9.514/97](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm)). Você continua dono, pode morar ou alugar normalmente, e a garantia sai da matrícula quando a dívida é quitada. Como o risco da instituição cai muito, o juro cai junto, e o prazo pode chegar a 240 meses.
+No empréstimo com garantia de imóvel, o imóvel fica registrado como garantia na matrícula por **alienação fiduciária** ([Lei 9.514/97](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm)). Você continua morando ou alugando normalmente. A instituição fica com a propriedade fiduciária só até a quitação, e então a garantia é cancelada na matrícula. Como o risco da instituição cai muito, o juro cai junto, e o prazo pode chegar a 240 meses.
 
-Essa operação também é chamada de **home equity** ou CGI (crédito com garantia de imóvel). Muita gente procura como "refinanciamento de imóvel" ou "hipoteca", mas hoje o modelo usado é a alienação fiduciária.
+Essa operação também é chamada de **home equity** ou CGI (crédito com garantia de imóvel). Muita gente procura como "refinanciamento de imóvel" ou "hipoteca", mas hoje o modelo mais usado é a alienação fiduciária.
 
-## Exemplo: R$ 50 mil em dívidas
+## Exemplo: R$ 300 mil em dívidas
 
-Premissas para comparar (simulação ilustrativa, com taxa fixa e sem IOF, seguros, avaliação do imóvel e registro, que entram no custo efetivo total):
+Premissas para comparar (simulação ilustrativa, com taxas fixas e sem IOF, seguros, avaliação do imóvel e registro, que entram no custo efetivo total):
 
-- Dívida de R$ 50.000 parcelada no cartão a 9,3% ao mês, em 24 parcelas.
-- Mesma dívida trocada por empréstimo com garantia de imóvel a 1,5% ao mês.
+- R$ 300.000 em empréstimos pessoais e parcelamentos, a 6,5% ao mês, em 36 parcelas.
+- Mesma dívida trocada por empréstimo com garantia de imóvel a uma taxa hipotética de 1,5% ao mês, usada só para ilustrar a conta.
 
 | Cenário | Parcela | Total pago |
 |---|---|---|
-| Parcelamento do cartão, 24 meses | R$ 5.274 | R$ 126.579 |
-| Garantia de imóvel, 120 meses | R$ 901 | R$ 108.111 |
-| Garantia de imóvel, 180 meses | R$ 805 | R$ 144.938 |
+| Empréstimo pessoal, 36 meses | R$ 21.754 | R$ 783.144 |
+| Garantia de imóvel, 120 meses | R$ 5.406 | R$ 648.667 |
+| Garantia de imóvel, 180 meses | R$ 4.831 | R$ 869.627 |
 
 Duas lições saem dessa tabela:
 
-1. **A parcela despenca.** Sair de R$ 5,2 mil para menos de R$ 1 mil por mês devolve fôlego ao orçamento.
-2. **Prazo longo demais pode custar mais no total.** Em 180 meses, a parcela cai só R$ 96 em relação aos 120 meses, mas o total pago sobe mais de R$ 36 mil e passa o do cartão. A regra que a gente usa: escolher o **menor prazo cuja parcela cabe com folga**, e amortizar antes quando sobrar dinheiro.
+1. **A parcela despenca.** Sair de R$ 21,8 mil para R$ 5,4 mil por mês devolve fôlego ao orçamento.
+2. **Prazo longo demais pode custar mais no total.** Em 180 meses, a parcela cai só R$ 575 em relação aos 120 meses, mas o total pago sobe mais de R$ 220 mil e passa o da dívida original. A regra que a gente usa: escolher o **menor prazo cuja parcela cabe com folga**, e amortizar antes quando sobrar dinheiro.
+
+No cartão de crédito, a conta é diferente: pela Lei 14.690/2023, os juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% do valor original, então o total pago fica limitado ao dobro da dívida. Ainda assim, a parcela costuma ser alta.
+
+A Shield trabalha com operações a partir de R$ 300 mil. Para dívidas menores, renegociar direto com o banco pode sair melhor.
 
 ## Quando a troca faz sentido
 
@@ -62,7 +65,7 @@ Duas lições saem dessa tabela:
 
 ## Quando a gente recomenda não fazer
 
-- **A dívida é pequena.** Avaliação, registro e tarifas têm custo fixo, e muitas instituições exigem um valor mínimo de crédito. Para dívidas menores, renegociar direto com o banco pode sair melhor.
+- **A dívida é pequena.** Avaliação, registro e tarifas têm custo fixo, e as instituições exigem um valor mínimo de crédito. Abaixo de R$ 300 mil, a Shield não atua, e renegociar direto com o banco pode sair melhor.
 - **O gasto continua.** Se o cartão volta a encher depois da troca, você fica com duas dívidas, e uma delas tem o imóvel como garantia.
 - **A renda não comporta a parcela.** O imóvel garante a dívida: se as parcelas deixarem de ser pagas, a instituição pode retomá-lo, seguindo o procedimento da Lei 9.514/97. Não é para usar no aperto sem saída.
 
@@ -81,7 +84,7 @@ O processo costuma levar algumas semanas, principalmente por causa da avaliaçã
 
 ### Vale a pena usar o imóvel para pagar dívida de cartão?
 
-Vale quando a nova parcela cabe na renda com folga e o gasto que gerou a dívida está sob controle. A diferença de juros é grande: de cerca de 9% a 15% ao mês no cartão para perto de 1,5% ao mês com garantia de imóvel. Se o cartão voltar a encher, a troca piora a situação.
+Vale quando a nova parcela cabe na renda com folga e o gasto que gerou a dívida está sob controle. A diferença de juros é grande: no cartão, a média passa de 9% ao mês no parcelamento e de 15% no rotativo; com garantia de imóvel, a taxa costuma ser uma fração disso. Se o cartão voltar a encher, a troca piora a situação.
 
 ### Posso perder meu imóvel?
 
@@ -97,7 +100,7 @@ Não necessariamente. Algumas instituições aceitam imóvel ainda financiado: o
 
 ### Quanto consigo pegar?
 
-Depende do valor de avaliação do imóvel e da sua renda. Para imóveis residenciais, o limite costuma chegar a 60% da avaliação. Em média, segundo a Abecip, o crédito concedido fica perto de um terço do valor do imóvel. Entenda em [o que é LTV](/conteudo/o-que-e-ltv-no-emprestimo-com-garantia-de-imovel/).
+Depende do valor de avaliação do imóvel e da sua renda. Para apartamentos, o limite costuma chegar a 60% da avaliação; casas e imóveis comerciais costumam ter limite menor. Segundo a Abecip, o LTV médio das operações no 1º semestre de 2026 ficou em 33% do valor do imóvel. Entenda em [o que é LTV](/conteudo/o-que-e-ltv-no-emprestimo-com-garantia-de-imovel/).
 
 ### Qual é a diferença entre taxa e CET?
 
