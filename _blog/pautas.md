@@ -6,7 +6,19 @@ Formato: `formato | palavra-chave principal | ângulo | origem`.
 
 ## Fila (prioridade de cima para baixo)
 
+Prioridade atual (20/11/2026, pedido do Andrew): SEO local de São José dos Campos e Vale do Paraíba.
+Regras das pautas locais: dados da cidade (ITBI, cartórios, endereços, valores de imóveis) só com fonte
+oficial atual e linkada (prefeitura, tribunal/ONR, IBGE); sem fonte, corte o dado. Nada de citar bairros
+ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-imovel/ ou
+/consorcio-e-cartas-contempladas/ e para o contato, e cita o atendimento presencial em SJC.
+
 ### Artigos (seg, qua, sex)
+- artigo | empréstimo com garantia de imóvel em São José dos Campos | pilar local: como funciona para quem tem imóvel em SJC, da avaliação ao registro no cartório da cidade, e o atendimento presencial na Av. Salmão | local
+- artigo | consórcio em São José dos Campos | como escolher administradora, grupo e carta (inclusive contemplada) com consultoria local | local
+- artigo | home equity no Vale do Paraíba | Taubaté, Jacareí, Caçapava, Pindamonhangaba e região: o que muda de cidade para cidade (cartório da comarca, avaliação, atendimento) | local regional
+- artigo | capital de giro com garantia de imóvel em São José dos Campos | empresas da região (indústria, serviços, comércio) trocando giro curto por prazo longo | local PJ
+- artigo | financiamento imobiliário em São José dos Campos | passo a passo da compra na cidade, com ITBI e registro locais | local
+- artigo | consórcio imobiliário no Vale do Paraíba | planejar a compra do imóvel na região sem juros, com exemplo de conta | local regional
 - artigo | empréstimo com garantia de imóvel financiado | como o novo crédito quita o financiamento e o que sobra | cauda longa
 - artigo | hipoteca ou alienação fiduciária | "é a mesma coisa?": o que mudou e o que acontece se não pagar | sinônimo
 - artigo | empréstimo com garantia de imóvel para negativado | o que a análise olha e por que não há garantia de aprovação | cauda longa
@@ -19,6 +31,10 @@ Formato: `formato | palavra-chave principal | ângulo | origem`.
 - artigo | refinanciamento de imóvel | o que as pessoas chamam de refinanciamento e como funciona hoje | sinônimo
 
 ### Dúvidas respondidas (ter, qui)
+- duvida | cartório de registro de imóveis em São José dos Campos | onde fica registrada a alienação fiduciária e o que atrasa o registro | local
+- duvida | ITBI em São José dos Campos | quanto é, quando se paga e se entra no financiamento | local
+- duvida | home equity em Jacareí e Taubaté | dá para fazer com a Shield morando fora de SJC? | local regional
+- duvida | avaliação de imóvel para empréstimo em São José dos Campos | como é a vistoria e o que pesa no valor | local
 - duvida | imóvel de terceiros como garantia | pode usar imóvel dos pais ou do sócio? | cauda longa
 - duvida | quanto tempo demora empréstimo com garantia de imóvel | etapas e o que mais atrasa | dúvida de cliente
 - duvida | documentos para empréstimo com garantia de imóvel | lista por etapa | dúvida de cliente
