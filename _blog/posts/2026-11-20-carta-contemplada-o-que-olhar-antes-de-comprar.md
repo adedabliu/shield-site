@@ -7,7 +7,7 @@ formato: artigo
 palavra_chave: carta contemplada
 resumo: Confira o valor do crédito, a entrada, o saldo devedor, o reajuste das parcelas e se a administradora aprova a transferência. Veja como fazer a conta.
 ---
-Uma **carta contemplada** é uma cota de consórcio que já foi sorteada ou ganhou no lance, e que o dono vende para outra pessoa. Quem compra paga uma entrada ao vendedor, assume as parcelas que faltam e pode usar o crédito logo, sem esperar a contemplação. Antes de pagar qualquer valor, confira cinco pontos: o crédito disponível, a entrada, o saldo devedor, o reajuste e a aprovação da administradora.
+Uma **carta contemplada** é uma cota de consórcio que já foi sorteada ou ganhou no lance, e que o dono vende para outra pessoa. Quem compra paga uma entrada ao vendedor, assume as parcelas que faltam e, depois que a administradora aprova a transferência, pode usar o crédito sem esperar a contemplação. Antes de pagar qualquer valor, confira cinco pontos: o crédito disponível, a entrada, o saldo devedor, o reajuste e a aprovação da administradora.
 
 Feita com os cuidados abaixo, a compra fica bem mais segura e você usa um crédito pronto, com o saldo pago sem juros. Feita com pressa, abre espaço para golpes, como cartas falsas ou "reservadas" com pagamento antecipado.
 
@@ -57,7 +57,7 @@ Exemplo ilustrativo de uma carta de imóvel (valores hipotéticos, sem reajuste 
 | Parcelas restantes | 150 × R$ 1.900 = R$ 285.000 |
 | Custo total para o comprador | R$ 375.000 |
 
-Neste exemplo, o comprador paga R$ 375 mil para ter R$ 300 mil de crédito hoje: 25% acima do crédito, espalhados em 12 anos e meio, com o saldo sem juros. A entrada é o que você paga pela vantagem de não esperar: em termos mensais, ela equivale a um custo de cerca de 0,43% ao mês sobre o crédito. Coloque na conta também o reajuste estimado das parcelas e a taxa de transferência.
+Neste exemplo, o comprador paga R$ 375 mil para ter R$ 300 mil de crédito hoje: 25% acima do crédito, espalhados em 12 anos e meio, com o saldo sem juros. Somando a entrada e as parcelas, o custo implícito da carta fica em cerca de 0,43% ao mês sobre o crédito: é o preço de não esperar a contemplação. Coloque na conta também o reajuste estimado das parcelas e a taxa de transferência.
 
 ## Quando a carta contemplada vale a pena
 

@@ -49,7 +49,7 @@ Os limites variam por instituição. Como referência geral:
 | Terreno | menor ainda, quando aceito |
 | Imóvel rural | poucas instituições aceitam |
 
-Imóveis comerciais e terrenos têm menos compradores e demoram mais para vender, por isso a margem é maior. No financiamento imobiliário, que usa o próprio imóvel comprado como garantia, o limite costuma ser mais alto, porque a operação é diferente.
+Imóveis comerciais e terrenos têm menos compradores e demoram mais para vender, por isso a margem é maior. No financiamento imobiliário, que usa o próprio imóvel comprado como garantia, o limite costuma ser mais alto em muitos bancos, porque a operação é diferente.
 
 ## O que define quanto você consegue de verdade
 
@@ -66,7 +66,7 @@ Segundo a [Abecip](https://www.abecip.org.br/), o LTV médio das operações de 
 Pedir só o necessário traz vantagens:
 
 - **Parcela menor** e mais folga no orçamento.
-- **Mais chance de aprovação**, porque o risco da operação cai.
+- **Operação de menor risco** para a instituição.
 - **Em algumas instituições, taxa melhor** para LTVs mais baixos.
 
 A pergunta certa não é "quanto consigo pegar", mas "de quanto eu preciso e qual parcela cabe".

@@ -20,9 +20,9 @@ Os números abaixo são médias de mercado divulgadas pelo Banco Central nas [Es
 | Rotativo do cartão | cerca de 450% | cerca de 15% |
 | Parcelamento da fatura | cerca de 190% | cerca de 9% |
 | Cheque especial | cerca de 140% | cerca de 7,5% |
-| Empréstimo pessoal sem garantia | cerca de 110% a 130% | cerca de 6,5% a 7% |
+| Empréstimo pessoal sem garantia | cerca de 110% | cerca de 6,4% |
 
-Repare na diferença: no rotativo, a dívida pode crescer mais de 15% em um único mês. No crédito com garantia de imóvel, a taxa costuma ser uma fração disso, porque o risco da instituição é muito menor. A taxa e o CET do seu caso só saem na proposta de cada instituição.
+Repare na diferença: no rotativo, a dívida pode crescer mais de 15% em um único mês. No crédito com garantia de imóvel, a taxa costuma ser uma fração disso, porque o risco da instituição é muito menor. A taxa e o CET do seu caso só saem na proposta de cada instituição. A Shield faz a consultoria e a intermediação: compara as propostas das instituições parceiras e acompanha você até o registro.
 
 > Desde 2024, a Lei 14.690/2023 limita os juros e encargos do rotativo e do parcelamento da fatura a 100% do valor original da dívida. Isso freia a bola de neve, mas não deixa a dívida barata: pagar o dobro do que você gastou continua sendo caro.
 
