@@ -51,5 +51,5 @@ Qualidade acima de volume: se não houver pauta boa no dia, não publica.
 - [x] 2. Gerador do blog
 - [x] 3. Três primeiros artigos (dívida cara, carta contemplada, LTV)
 - [x] 4. Verificação e pull request
-- [ ] 5. Skill `pauteiro-seo-shield`
-- [ ] 6. Tarefa agendada diária
+- [x] 5. Skill `pauteiro-seo-shield`
+- [x] 6. Tarefa agendada diária (dias úteis, 6h34, abre PR)
