@@ -28,14 +28,20 @@ no Google e de direito autoral).
 
 Qualidade acima de volume: se não houver pauta boa no dia, não publica.
 
-## Fluxo diário
+## Fluxo diário (decisão D-012 do Segundo Cérebro, 20/11/2026)
 
 1. A tarefa agendada roda a skill `pauteiro-seo-shield`.
 2. A skill escolhe a pauta (dúvidas reais de clientes, demanda de busca, experiência da Shield,
    temas perenes), checa no `_blog/pautas.md` o que já saiu, faz o briefing e escreve com a
    `especialista-seo-shield`.
 3. Salva o `.md`, roda o gerador, confere e abre um pull request no GitHub.
-4. O Andrew aprova (merge) pelo celular e o GitHub Pages publica.
+4. Um agente separado revisa com o `agente-shield` e o Segundo Cérebro (produto, compliance,
+   números, decisões, LGPD) e devolve APROVADO ou REPROVADO.
+5. Aprovado: merge automático, conferência da página no ar e registro no Diário de ações
+   autônomas. Reprovado: uma correção e nova revisão; se reprovar de novo, o PR fica para o
+   Andrew no Painel Souvrin AI.
+6. O Andrew recebe um push com o link do que saiu (ou do que travou) e pode vetar: o veto
+   reverte o merge e vira decisão nova.
 
 ## Regras de conteúdo
 
