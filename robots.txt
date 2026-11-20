@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /links/
+Disallow: /_blog/
 
 Sitemap: https://shieldcredito.com.br/sitemap.xml
