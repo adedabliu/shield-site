@@ -7,7 +7,7 @@ formato: artigo
 palavra_chave: empréstimo com garantia de imóvel em São José dos Campos
 resumo: Como funciona o empréstimo com garantia de imóvel para quem tem casa, apartamento ou sala em São José dos Campos: limite, custos, cartório da cidade e atendimento presencial.
 ---
-Quem tem um imóvel em São José dos Campos e está pagando juros de cartão, cheque especial ou empréstimo pessoal costuma ter uma saída mais barata parada dentro de casa. O **empréstimo com garantia de imóvel em São José dos Campos** funciona como em qualquer lugar do país: você oferece o imóvel como garantia, consegue um crédito com prazo longo e juros menores, e continua morando ou usando o imóvel normalmente.
+Quem tem um imóvel em São José dos Campos e está pagando juros de cartão, cheque especial ou empréstimo pessoal costuma ter uma saída mais barata parada dentro de casa. O **empréstimo com garantia de imóvel em São José dos Campos** funciona como em qualquer lugar do país: você oferece o imóvel como garantia, pode conseguir um crédito com prazo mais longo e juros menores, sujeito à análise, e continua morando ou usando o imóvel normalmente.
 
 O que muda de cidade para cidade é a parte prática: quem avalia o imóvel, em qual cartório a garantia é registrada e com quem você conversa durante o processo. É isso que este guia mostra, etapa por etapa.
 
@@ -49,7 +49,7 @@ Um apartamento em São José dos Campos avaliado em **R$ 800 mil**, quitado:
 - prazo do exemplo: 180 meses, tabela Price;
 - taxa **hipotética** de 1,2% ao mês, usada só para ilustrar a conta.
 
-Com essas premissas, a parcela ficaria perto de **R$ 4.350**. Esse número não inclui seguros obrigatórios (morte e invalidez e danos físicos ao imóvel), IOF, tarifas e o custo de registro, que entram no **CET**, o custo efetivo total. A taxa real depende da instituição, do imóvel, do prazo e da análise de crédito: não é oferta nem promessa. Para comparar propostas, olhe sempre o CET.
+Com essas premissas, a parcela ficaria perto de **R$ 4.350**. Esse número não inclui seguros exigidos pela instituição (MIP, de morte e invalidez permanente, e DFI, de danos físicos ao imóvel), IOF, tarifas e o custo de registro, que entram no **CET**, o custo efetivo total. A taxa real depende da instituição, do imóvel, do prazo e da análise de crédito: não é oferta nem promessa. Para comparar propostas, olhe sempre o CET.
 
 ## Passo a passo em São José dos Campos
 
@@ -75,7 +75,7 @@ A instituição analisa renda, histórico de crédito, imóvel e documentação.
 
 Aprovado o crédito, você assina o contrato, que é registrado na matrícula do imóvel. Em São José dos Campos, a matrícula fica em um de dois cartórios: o **1º ou o 2º Oficial de Registro de Imóveis**, conforme o bairro ou loteamento onde o imóvel está. O próprio 1º Oficial mantém uma [pesquisa de circunscrição por bairro e loteamento](https://www.1risjc.com.br/?pG=X19jb25zdWx0YV9jaXJjdW5zY3JpY2Fv) que mostra qual dos dois atende o seu imóvel.
 
-A certidão da matrícula pode ser pedida on-line no portal oficial dos cartórios de registro de imóveis, o [Registro de Imóveis do Brasil (ONR)](https://ridigital.org.br/). Imóveis em Jacareí, Taubaté, Caçapava e outras cidades do Vale do Paraíba são registrados no cartório da comarca de cada cidade.
+A certidão da matrícula pode ser pedida on-line no [RI Digital](https://ridigital.org.br/), portal oficial do Registro de Imóveis do Brasil, mantido pelo ONR. Imóveis em Jacareí, Taubaté, Caçapava e outras cidades do Vale do Paraíba são registrados no cartório de registro de imóveis competente para o endereço (em geral, o da comarca).
 
 ### 6. Liberação do dinheiro
 
@@ -88,9 +88,9 @@ Além da taxa de juros, entram na conta:
 - **avaliação do imóvel** (cobrada por algumas instituições);
 - **registro em cartório**, conforme a tabela de emolumentos do estado de São Paulo;
 - **IOF**;
-- **seguros obrigatórios** embutidos na parcela.
+- **seguros MIP e DFI** exigidos pela instituição, embutidos na parcela.
 
-Tudo isso aparece no CET da proposta. A Shield mostra o custo total antes de você assinar e **não cobra nada antecipado**: pedido de depósito antes da liberação é sinal de golpe.
+Tudo isso aparece no CET da proposta. A Shield mostra o custo total antes de você assinar e **não cobra nada antecipado**. Custos como avaliação e registro, quando existem, são pagos direto à instituição ou ao cartório e aparecem na proposta. Pedido de depósito a um intermediário para "liberar" ou "garantir" o crédito é sinal de golpe.
 
 ## Para quem faz sentido (e para quem não faz)
 
@@ -124,7 +124,7 @@ No cartório onde está a matrícula do imóvel: o 1º ou o 2º Oficial de Regis
 
 ### Tenho imóvel em Jacareí ou Taubaté. Posso fazer com a Shield?
 
-Sim. A Shield atende o Vale do Paraíba. A diferença é que o registro da garantia é feito no cartório de registro de imóveis da comarca onde o imóvel está.
+Sim. A Shield atende o Vale do Paraíba. A diferença é que o registro da garantia é feito no cartório de registro de imóveis competente para o endereço do imóvel.
 
 ### Qual é o valor mínimo do empréstimo?
 
