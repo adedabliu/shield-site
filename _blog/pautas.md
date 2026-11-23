@@ -13,7 +13,6 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 /consorcio-e-cartas-contempladas/ e para o contato, e cita o atendimento presencial em SJC.
 
 ### Artigos (seg, qua, sex)
-- artigo | empréstimo com garantia de imóvel em São José dos Campos | pilar local: como funciona para quem tem imóvel em SJC, da avaliação ao registro no cartório da cidade, e o atendimento presencial na Av. Salmão | local
 - artigo | consórcio em São José dos Campos | como escolher administradora, grupo e carta (inclusive contemplada) com consultoria local | local
 - artigo | home equity no Vale do Paraíba | Taubaté, Jacareí, Caçapava, Pindamonhangaba e região: o que muda de cidade para cidade (cartório da comarca, avaliação, atendimento) | local regional
 - artigo | capital de giro com garantia de imóvel em São José dos Campos | empresas da região (indústria, serviços, comércio) trocando giro curto por prazo longo | local PJ
@@ -31,6 +30,8 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 - artigo | refinanciamento de imóvel | o que as pessoas chamam de refinanciamento e como funciona hoje | sinônimo
 
 ### Dúvidas respondidas (ter, qui)
+- duvida | construção não averbada empréstimo com garantia de imóvel | casa ampliada sem averbação na matrícula: o que acontece na avaliação e como regularizar | experiência da operação
+- duvida | seguro MIP e DFI no empréstimo com garantia de imóvel | o que são os seguros embutidos na parcela e como pesam no CET | pesquisa do post SJC
 - duvida | cartório de registro de imóveis em São José dos Campos | onde fica registrada a alienação fiduciária e o que atrasa o registro | local
 - duvida | ITBI em São José dos Campos | quanto é, quando se paga e se entra no financiamento | local
 - duvida | home equity em Jacareí e Taubaté | dá para fazer com a Shield morando fora de SJC? | local regional
@@ -48,3 +49,4 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 - 2026-11-20 | artigo | trocar dívida cara por barata | /conteudo/trocar-divida-cara-por-barata/
 - 2026-11-20 | artigo | carta contemplada | /conteudo/carta-contemplada-o-que-olhar-antes-de-comprar/
 - 2026-11-20 | artigo | LTV empréstimo com garantia de imóvel | /conteudo/o-que-e-ltv-no-emprestimo-com-garantia-de-imovel/
+- 2026-11-23 | artigo | empréstimo com garantia de imóvel em São José dos Campos | /conteudo/emprestimo-com-garantia-de-imovel-em-sao-jose-dos-campos/
