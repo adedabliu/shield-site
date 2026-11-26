@@ -19,7 +19,7 @@ O empréstimo com garantia de imóvel, também chamado de **home equity** ou CGI
 - a garantia fica anotada na matrícula, no cartório de registro de imóveis;
 - quando a última parcela é paga, a garantia é baixada e a matrícula fica livre de novo.
 
-Como a instituição tem o imóvel como garantia, o risco dela é menor. Por isso o prazo costuma ser bem mais longo e a taxa bem mais baixa que a do crédito sem garantia. O dinheiro tem uso livre: quitar dívidas, reformar, investir no negócio ou ajudar um filho na compra do primeiro imóvel.
+Como a instituição tem o imóvel como garantia, o risco dela é menor. Por isso o prazo costuma ser bem mais longo e a taxa costuma ser mais baixa que a do crédito sem garantia. O dinheiro tem uso livre: quitar dívidas, reformar, investir no negócio ou ajudar um filho na compra do primeiro imóvel.
 
 ### O risco que você precisa conhecer
 
@@ -108,7 +108,7 @@ Não faz sentido para quem:
 
 ## Atendimento presencial em São José dos Campos
 
-A Shield é uma consultoria de crédito com escritório em São José dos Campos, na **Av. Salmão, 663, sala 63, Parque Residencial Aquarius**. O atendimento presencial é com hora marcada pelo WhatsApp, e quem mora em outras cidades do Vale do Paraíba pode fazer todo o processo à distância.
+A Shield é uma consultoria de crédito com escritório em São José dos Campos, na **Av. Salmão, 663, sala 63, Parque Residencial Aquarius**. O atendimento presencial é com hora marcada pelo WhatsApp, e quem mora em outras cidades do Vale do Paraíba pode ser atendido à distância (a vistoria do engenheiro é feita no imóvel).
 
 A Shield não é instituição financeira: atua na consultoria e intermediação de operações concedidas por instituições parceiras autorizadas pelo Banco Central, sujeitas a análise de crédito, avaliação do imóvel e às condições de cada uma. Saiba mais sobre o [empréstimo com garantia de imóvel](/emprestimo-com-garantia-de-imovel/), faça uma [simulação](/simulador/) ou fale com a gente pelo [contato](/contato/).
 
@@ -132,7 +132,7 @@ A Shield trabalha com operações a partir de R$ 300 mil de crédito. O valor m�
 
 ### Posso perder o imóvel?
 
-O imóvel fica em alienação fiduciária e só corre risco se as parcelas deixarem de ser pagas. Por isso a parcela deve caber com folga no orçamento antes de qualquer assinatura.
+O imóvel fica em alienação fiduciária e o principal risco é deixar de pagar as parcelas; o contrato também pode prever outras hipóteses de vencimento antecipado. Por isso a parcela deve caber com folga no orçamento antes de qualquer assinatura.
 
 ### A Shield garante a aprovação?
 

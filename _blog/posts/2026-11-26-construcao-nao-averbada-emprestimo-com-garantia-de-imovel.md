@@ -44,7 +44,7 @@ O caminho mais comum tem quatro etapas, com detalhes que variam por prefeitura e
 
 1. **Levantamento técnico.** Um engenheiro ou arquiteto mede o que foi construído e prepara a planta, com ART ou RRT.
 2. **Prefeitura.** Você aprova ou regulariza a obra e obtém o Habite-se (ou certidão de conclusão).
-3. **Receita Federal.** A obra é inscrita no CNO e passa pela aferição no Sero, que calcula as contribuições devidas. Pagas, sai a [certidão de regularidade fiscal da obra](https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal-de-obra), usada para averbar. A [Lei 8.212/91](https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm) (art. 47, II, e art. 30, VIII) dispensa o documento para a casa unifamiliar de uso próprio, de tipo econômico, feita sem mão de obra assalariada, conforme o regulamento.
+3. **Receita Federal.** A obra é inscrita no CNO e passa pela aferição no Sero, que calcula as contribuições devidas. Pagas, sai a [certidão de regularidade fiscal da obra](https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal-de-obra), usada para averbar (havendo débitos parcelados, a certidão positiva com efeitos de negativa também serve). A [Lei 8.212/91](https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm) (art. 47, II, e art. 30, VIII) dispensa o documento para a casa unifamiliar de uso próprio, de tipo econômico, feita sem mão de obra assalariada, conforme o regulamento.
 4. **Cartório de Registro de Imóveis.** Com o Habite-se e a certidão da obra, você pede a averbação.
 
 Há taxas da prefeitura, contribuições calculadas no Sero e emolumentos do cartório, que variam conforme a área e o município.
@@ -67,7 +67,7 @@ Pode, em muitos casos, mas o laudo tende a considerar só a área que está na m
 
 ### Quanto tempo leva para averbar uma construção?
 
-Depende da prefeitura, da Receita e do cartório. Em geral, a etapa mais demorada é a da prefeitura.
+Depende da prefeitura, da Receita e do cartório. O prazo varia bastante de município para município.
 
 ### O IPTU com a área certa basta?
 
