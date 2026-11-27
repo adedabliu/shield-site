@@ -13,7 +13,7 @@ Este guia mostra esse caminho em cinco decisões, com um exemplo de conta e os c
 
 ## Como funciona o consórcio, em poucas linhas
 
-O consórcio é um grupo de pessoas que paga parcelas mensais para formar um fundo comum. Todo mês, em assembleia, parte do grupo é contemplada com o crédito, por sorteio ou por lance. A regra está na [Lei 11.795/2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm), e o grupo tem patrimônio próprio, separado do patrimônio da administradora.
+O consórcio é um grupo de pessoas que paga parcelas mensais para formar um fundo comum. Nas assembleias, em geral mensais, parte do grupo é contemplada com o crédito, por sorteio ou por lance. A regra está na [Lei 11.795/2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm), e o grupo tem patrimônio próprio, separado do patrimônio da administradora.
 
 Em vez de juros, você paga **taxa de administração**, além de fundo de reserva (se o contrato prever) e seguro (quando houver). As parcelas e o crédito são reajustados por um índice definido no contrato, em geral o INCC ou o IPCA no consórcio de imóvel. Isso protege o poder de compra da carta, mas também faz a parcela subir com o tempo.
 
@@ -30,7 +30,7 @@ Antes de qualquer simulação, responda: o que você quer comprar e para quando?
 
 A carta deve cobrir o valor do bem e, se o contrato permitir, parte das despesas de compra, como ITBI e registro. Se pretende usar lance embutido (veja abaixo), dimensione a carta um pouco maior.
 
-A parcela precisa caber com folga no orçamento, considerando que ela será reajustada todo ano. A administradora avalia a sua capacidade de pagamento na adesão e de novo na contemplação, como exige a [Resolução BCB 285/2023](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=285). Parcela no limite é o primeiro passo para um problema.
+A parcela precisa caber com folga no orçamento, considerando que ela será reajustada todo ano. A administradora avalia a sua capacidade de pagamento na adesão e de novo na contemplação, nos grupos formados a partir de julho de 2024, como exige a [Resolução BCB 285/2023](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=285). Parcela no limite é o primeiro passo para um problema.
 
 ### 3. A administradora
 
@@ -38,7 +38,7 @@ Três conferências, todas recomendadas pelo próprio [Banco Central](https://ww
 
 - se a administradora está **autorizada pelo Banco Central** a funcionar;
 - como ela aparece no [Ranking de Reclamações do BC](https://www.bcb.gov.br/meubc/rankingreclamacoes), que tem uma lista só de administradoras de consórcio, e no Procon e no Consumidor.gov;
-- o **regulamento e o contrato**: taxa de administração total, fundo de reserva, seguro, índice de reajuste, regras de lance e de transferência. Desde 2024, o regulamento fica disponível no site da administradora.
+- o **regulamento e o contrato**: taxa de administração total, fundo de reserva, seguro, índice de reajuste, regras de lance e de transferência. O regulamento deve estar disponível no site da administradora, como orienta o Banco Central.
 
 Compare a taxa de administração sempre no mesmo segmento (imóvel com imóvel) e pelo total, não só pela parcela.
 
@@ -57,7 +57,7 @@ Esse histórico mostra se o lance que você tem condição de dar costuma ser su
 O lance é uma oferta para antecipar a contemplação, abatida das parcelas que faltam. Os tipos mais comuns:
 
 - **lance livre**: você oferece o percentual que quiser, com recurso próprio;
-- **lance fixo**: percentual definido no contrato, com desempate por sorteio;
+- **lance fixo**: percentual definido no contrato, com desempate conforme o contrato (em geral, por sorteio);
 - **lance embutido**: parte do próprio crédito é usada como lance, quando o contrato permite. Preserva o seu caixa, mas reduz o crédito que sobra para a compra.
 
 ## Exemplo de conta com premissas
@@ -77,13 +77,13 @@ Diluída no prazo, a taxa de administração do exemplo equivale a cerca de **0,
 
 Agora o lance. Com um **lance embutido de 25%**, R$ 100 mil saem do próprio crédito: se ele vencer, sobram **R$ 300 mil** para comprar o imóvel, e os R$ 100 mil abatem o saldo que falta pagar. Quem precisa de R$ 400 mil livres para a compra deveria partir de uma carta maior. Com recurso próprio, o crédito fica inteiro, mas o dinheiro sai do seu bolso. Em nenhum dos casos o lance garante a contemplação: ele concorre com os lances dos outros participantes.
 
-Os números reais dependem da administradora, do grupo e do contrato. Antes de assinar, peça a proposta com todos os componentes da parcela discriminados, como a norma do Banco Central exige.
+Os números reais dependem da administradora, do grupo e do contrato. Antes de assinar, confira no contrato a tabela da parcela inicial, com fundo comum, taxa de administração, fundo de reserva e seguro discriminados, como exige a Resolução BCB 285/2023.
 
 ## Cuidados que evitam golpe
 
 - Pague só boletos ou transferências em nome da **administradora**, nunca para pessoa física.
 - Desconfie de "contemplação garantida", "cota reservada" ou pressa para pagar antes de ler o contrato.
-- Na compra de carta contemplada, nenhum valor antes da **anuência formal da administradora** para a transferência, como prevê o art. 13 da Lei 11.795/2008.
+- Na compra de carta contemplada, não pague nada antes da **anuência formal da administradora**. A transferência só vale com essa anuência prévia (art. 13 da Lei 11.795/2008), e o comprador também passa pela análise de capacidade de pagamento.
 - Se desistir, a devolução do que foi pago ao fundo comum segue a lei e o contrato e, em regra, não é imediata. Por isso a parcela precisa caber desde o início.
 
 ## Por que contar com uma consultoria em São José dos Campos
@@ -91,14 +91,14 @@ Os números reais dependem da administradora, do grupo e do contrato. Antes de a
 O consórcio pode ser contratado de qualquer lugar, mas as decisões acima pesam muito no resultado. A Shield ajuda a:
 
 - dimensionar a carta e a parcela para o seu objetivo;
-- comparar administradoras parceiras e grupos pelo regulamento e pelo histórico de lances;
+- comparar as administradoras disponíveis para o caso, sempre autorizadas pelo Banco Central, e os grupos pelo regulamento e pelo histórico de lances;
 - montar o plano de lance (com recurso próprio ou embutido);
 - buscar cartas contempladas e conduzir a transferência pela administradora, com a checagem do extrato oficial;
 - acompanhar as assembleias e, depois da contemplação, a compra do imóvel. Se o imóvel estiver em São José dos Campos, o registro é feito no cartório da matrícula, como explicamos no guia sobre [crédito com garantia de imóvel em São José dos Campos](/conteudo/emprestimo-com-garantia-de-imovel-em-sao-jose-dos-campos/).
 
 O atendimento presencial é no escritório da **Av. Salmão, 663, sala 63, Parque Residencial Aquarius**, com hora marcada pelo WhatsApp. Quem mora em Jacareí, Taubaté, Caçapava ou outra cidade do Vale do Paraíba pode ser atendido à distância.
 
-A Shield não é administradora de consórcio nem instituição financeira: atua na consultoria e intermediação junto a administradoras parceiras autorizadas pelo Banco Central, e não cobra nada antecipado do cliente. Veja como funciona o [consórcio e as cartas contempladas](/consorcio-e-cartas-contempladas/) com a Shield ou fale com a gente pelo [contato](/contato/).
+A Shield não é administradora de consórcio nem instituição financeira: atua na consultoria e intermediação junto às administradoras disponíveis para o caso, autorizadas pelo Banco Central, e não cobra nada antecipado do cliente. Veja como funciona o [consórcio e as cartas contempladas](/consorcio-e-cartas-contempladas/) com a Shield ou fale com a gente pelo [contato](/contato/).
 
 ## Perguntas frequentes
 
