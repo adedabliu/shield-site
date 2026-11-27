@@ -83,7 +83,7 @@ Os números reais dependem da administradora, do grupo e do contrato. Antes de a
 
 - Pague só boletos ou transferências em nome da **administradora**, nunca para pessoa física.
 - Desconfie de "contemplação garantida", "cota reservada" ou pressa para pagar antes de ler o contrato.
-- Na compra de carta contemplada, não pague nada antes da **anuência formal da administradora**. A transferência só vale com essa anuência prévia (art. 13 da Lei 11.795/2008), e o comprador também passa pela análise de capacidade de pagamento.
+- Na compra de carta contemplada, não pague nada antes da **anuência formal da administradora**. A transferência só vale com essa anuência prévia (art. 13 da Lei 11.795/2008), e o comprador também passa pela análise de capacidade de pagamento da administradora (obrigatória nos grupos formados a partir de julho de 2024).
 - Se desistir, a devolução do que foi pago ao fundo comum segue a lei e o contrato e, em regra, não é imediata. Por isso a parcela precisa caber desde o início.
 
 ## Por que contar com uma consultoria em São José dos Campos
@@ -120,7 +120,7 @@ Não. O custo é a taxa de administração, mais fundo de reserva e seguro, quan
 
 ### Posso usar a carta para comprar imóvel fora de São José dos Campos?
 
-Em geral, sim. O crédito do consórcio de imóvel pode ser usado em outras cidades, desde que o imóvel seja aprovado pela administradora e atenda às regras do contrato.
+Em geral, sim. O crédito do consórcio de imóvel pode ser usado em outras cidades, desde que o imóvel seja aprovado na avaliação da administradora e atenda às regras do contrato.
 
 ### O que é melhor: cota nova ou carta contemplada?
 
