@@ -13,7 +13,6 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 /consorcio-e-cartas-contempladas/ e para o contato, e cita o atendimento presencial em SJC.
 
 ### Artigos (seg, qua, sex)
-- artigo | consórcio em São José dos Campos | como escolher administradora, grupo e carta (inclusive contemplada) com consultoria local | local
 - artigo | home equity no Vale do Paraíba | Taubaté, Jacareí, Caçapava, Pindamonhangaba e região: o que muda de cidade para cidade (cartório da comarca, avaliação, atendimento) | local regional
 - artigo | capital de giro com garantia de imóvel em São José dos Campos | empresas da região (indústria, serviços, comércio) trocando giro curto por prazo longo | local PJ
 - artigo | financiamento imobiliário em São José dos Campos | passo a passo da compra na cidade, com ITBI e registro locais | local
@@ -24,12 +23,14 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 - artigo | capital de giro com garantia de imóvel | prazo de anos para empresa que vive de capital de giro curto e caro | PJ
 - artigo | empréstimo para reformar casa | reforma com garantia x crédito pessoal x consórcio | dor
 - artigo | consórcio ou financiamento imobiliário | comparação honesta pelo total pago e pelo tempo até ter o imóvel | comparativo
+- artigo | histórico de lances do grupo de consórcio | como ler a lista de lances vencedores e estimar a chance (sem prometer data) | pesquisa do post consórcio SJC
 - artigo | lance no consórcio | lance livre, fixo e embutido, com exemplo de conta | cauda longa
 - artigo | crédito para construção | como funciona a liberação em etapas e a medição da obra | produto
 - artigo | consórcio empresarial para frota | renovar frota sem juros e sem descapitalizar | PJ
 - artigo | refinanciamento de imóvel | o que as pessoas chamam de refinanciamento e como funciona hoje | sinônimo
 
 ### Dúvidas respondidas (ter, qui)
+- duvida | ranking de reclamações de consórcio do Banco Central | como consultar e como interpretar o índice antes de escolher a administradora | pesquisa do post consórcio SJC
 - duvida | habite-se para empréstimo com garantia de imóvel | o que é, quando a instituição pede e o que fazer se a casa não tem | pesquisa do post de averbação
 - duvida | matrícula atualizada para empréstimo | validade da certidão, onde pedir e o que o analista lê nas averbações | pesquisa do post de averbação
 - duvida | seguro MIP e DFI no empréstimo com garantia de imóvel | o que são os seguros embutidos na parcela e como pesam no CET | pesquisa do post SJC
@@ -52,3 +53,4 @@ ou preços de memória. Cada post local linka para /emprestimo-com-garantia-de-i
 - 2026-11-20 | artigo | LTV empréstimo com garantia de imóvel | /conteudo/o-que-e-ltv-no-emprestimo-com-garantia-de-imovel/
 - 2026-11-23 | artigo | empréstimo com garantia de imóvel em São José dos Campos | /conteudo/emprestimo-com-garantia-de-imovel-em-sao-jose-dos-campos/
 - 2026-11-26 | duvida | construção não averbada empréstimo com garantia de imóvel | /conteudo/construcao-nao-averbada-emprestimo-com-garantia-de-imovel/
+- 2026-11-27 | artigo | consórcio em São José dos Campos | /conteudo/consorcio-em-sao-jose-dos-campos/
